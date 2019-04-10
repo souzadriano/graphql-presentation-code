@@ -1,0 +1,16 @@
+{
+  "name": "graphql-presentation-code",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adriano de Souza",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.4.8",
+    "apollo-server-express": "^2.4.8",
+    "express": "^4.16.4",
+    "graphql": "^14.2.1",
+    "graphql-resolve-batch": "^1.0.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.5.0"
+  }
+}
