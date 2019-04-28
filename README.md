@@ -7,6 +7,7 @@ https://github.com/souzadriano/graphql-presentation
 
 * Node.js v10.15.0+
 * Yarn
+* MongoDB
 
 ## Install and run server
 
